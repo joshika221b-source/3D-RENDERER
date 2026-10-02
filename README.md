@@ -62,19 +62,19 @@ cd 3D-Renderer
 Using MinGW/G++:
 
 ```bash
-g++ main.cpp -o renderer.exe
+g++ main.cpp -o renderer3dextra.exe
 ```
 
 If the project contains multiple `.cpp` files:
 
 ```bash
-g++ *.cpp -o renderer.exe
+g++ *.cpp -o renderer3dextra.exe
 ```
 
 ### 3. Run
 
 ```bash
-renderer.exe
+renderer3dextra.exe
 ```
 
 The renderer generates the corresponding output based on the implementation.
